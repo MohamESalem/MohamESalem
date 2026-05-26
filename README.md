@@ -78,12 +78,6 @@ fun_fact:    "I write Verilog and TypeScript in the same week."
 
 <br>
 
-<!-- contribution graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamESalem&bg_color=0d1117&color=5eead4&line=5eead4&point=f7768e&area=true&area_color=5eead4&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" alt="Activity Graph"/>
-</p>
-
-<br>
 
 <!-- contribution snake -->
 <p align="center">
@@ -94,12 +88,6 @@ fun_fact:    "I write Verilog and TypeScript in the same week."
 
 <br>
 
-<!-- trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamESalem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
-<br>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                                 -->
